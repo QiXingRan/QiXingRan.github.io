@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shun Qin / About me"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Shun Qin"
+description              : &description "An undergraduate CS student at CSUST"
 url                      : https://QiXingRan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,10 +25,10 @@ author:
   name             : "Shun Qin"
   pronouns         : # example: "she/her"  
   bio              : "An undergraduate student at CSUST"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Changsha, Hunan Province, China"
+  employer         : "Changsha University of Science and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "qs@stu.csust.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
