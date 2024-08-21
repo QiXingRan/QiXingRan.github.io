@@ -12,4 +12,5 @@ I'm an undergraduate computer science student in China. My research interests ar
 
 News
 ======
-1. [03/2024] One paper (Biometric template protection) was accepted by IJCNN 2024.
+1. [03/2024] One paper (Biometric template protection) was accepted by IJCNN(CCF-C conf) 2024.
+2. [08/2024] One paper (Point cloud generation) was accepted by PRICAI(CCF-C conf) 2024.
